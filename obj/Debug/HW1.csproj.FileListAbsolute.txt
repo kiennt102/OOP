@@ -1,0 +1,7 @@
+D:\codeVS\HW1\HW1\bin\Debug\HW1.exe.config
+D:\codeVS\HW1\HW1\bin\Debug\HW1.exe
+D:\codeVS\HW1\HW1\bin\Debug\HW1.pdb
+D:\codeVS\HW1\HW1\obj\Debug\HW1.csproj.AssemblyReference.cache
+D:\codeVS\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+D:\codeVS\HW1\HW1\obj\Debug\HW1.exe
+D:\codeVS\HW1\HW1\obj\Debug\HW1.pdb
