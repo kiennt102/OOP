@@ -1,0 +1,7 @@
+D:\codeVS\HW3\HW3\bin\Debug\HW3.exe.config
+D:\codeVS\HW3\HW3\bin\Debug\HW3.exe
+D:\codeVS\HW3\HW3\bin\Debug\HW3.pdb
+D:\codeVS\HW3\HW3\obj\Debug\HW3.csproj.AssemblyReference.cache
+D:\codeVS\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+D:\codeVS\HW3\HW3\obj\Debug\HW3.exe
+D:\codeVS\HW3\HW3\obj\Debug\HW3.pdb
